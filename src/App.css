@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #f7f7f7;
+  background-color: #dad0cc;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -27,6 +27,7 @@ body {
 h1 {
   letter-spacing: 1px;
   margin: 0;
+color: #686A6A
 }
 
 h3 {
@@ -65,7 +66,7 @@ h4 {
 }
 
 .money.plus {
-  color: #2ecc71;
+  color: #75DACA;
 }
 
 .money.minus {
