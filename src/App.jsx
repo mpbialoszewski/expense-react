@@ -1,10 +1,11 @@
 
 import './App.css'
+import { Header}  from './components/Header'
 
 function App() {
   return (
     <>
-        <h1>M'yellow!</h1>
+        <Header />
         <p> Placeholder</p>
     </>
   )
